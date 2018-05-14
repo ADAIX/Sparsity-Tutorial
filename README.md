@@ -26,7 +26,7 @@ This tutorial is comprised of a series of <a href="https://jupyter-notebook.read
 
 In order to run the tutorial notebooks tutees will need to have the following installed:
 
-* <a href="https://www.python.org/" target_="blank">Python</a> (2.7 or 3.6+, users are recommended to use Python 3)
+* <a href="https://www.python.org/" target_="blank">Python</a> (2.7 or 3.6+, users are recommended to use Python 3.6)
 * <a href="http://www.numpy.org/" target_="blank">NumPy</a> (recommend v1.14.1+)
 * <a href="https://www.scipy.org/" target_="blank">SciPy</a> (recommend v1.0.0+)
 * <a href="https://matplotlib.org/" target_="blank">Matplotlib</a> (recommend v2.1.0+)
@@ -67,4 +67,4 @@ $ conda install numpy scipy matplotlib jupyter
 
 ## Acknowledgements
 
-S. Farrens would like to acknowledge the following people for helpful feedback and ideas for producing this tutorial: Fred Ngolè-Mboula, Jean-Luc Starck,
+S. Farrens would like to acknowledge the following people for helpful feedback and ideas for producing this tutorial: Fred Ngolè-Mboula and Jean-Luc Starck.
