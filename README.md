@@ -61,7 +61,7 @@ $ conda install numpy scipy matplotlib jupyter
 
 1. [Introduction to Sparsity III: Deconvolution](./sparsity_3_deconvolution.ipynb)
 
-1. [Introduction to Wavelets](./wavelets.ipynb)
+1. [Introduction to Wavelets](./wavelets_1.ipynb)
 
 1. [Exercise Solutions](./exercise_solutions.ipynb)
 
