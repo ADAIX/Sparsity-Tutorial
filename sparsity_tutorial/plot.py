@@ -72,7 +72,8 @@ def line_plot(data, title=None, ylim=None, xlab=None):
     if not isinstance(title, type(None)):
         plt.title(title, fontsize=20)
     plt.ylim(ylim)
-    plt.xlabel(xlab, fontsize=18)
+    if not isinstance(xlab, type(None)):
+        plt.xlabel(xlab, fontsize=18)
     plt.show()
 
 
