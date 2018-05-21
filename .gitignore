@@ -1,5 +1,2 @@
 # Ignore Python compilation
 *.pyc
-
-# Ignore image generation notebook
-example_image.ipynb
