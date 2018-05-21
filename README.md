@@ -63,7 +63,7 @@ $ conda install numpy scipy matplotlib jupyter
 
 1. [Introduction to Wavelets](./wavelets_1.ipynb)
 
-1. [Exercise Solutions](http://gifimage.net/wp-content/uploads/2017/10/dennis-nedry-gif-3.gif)
+1. [Exercise Solutions](./exercise_solutions.ipynb)
 
 ## Acknowledgements
 
